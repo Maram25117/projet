@@ -46,8 +46,10 @@
                 <div class="d-inline-flex align-items-center">
                     <a style="color:#F77D0A; margin-right: 35px" >
                         <i class="fab fa-facebook-f"></i>
+                        <i class="fab fa-facebook-f"></i>
                     </a>
                     <a style="color:#F77D0A; margin-right: 35px" >
+                        <i class="fab fa-twitter"></i>
                         <i class="fab fa-twitter"></i>
                     </a>
                     <a style="color:#F77D0A; margin-right: 35px" >
